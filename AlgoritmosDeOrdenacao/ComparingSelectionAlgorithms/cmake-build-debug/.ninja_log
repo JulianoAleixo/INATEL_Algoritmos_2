@@ -1,0 +1,4 @@
+# ninja log v5
+5	300	7338122133814058	build.ninja	94d4bacf2097d160
+7	562	7323989725511289	CMakeFiles/ComparingSelectionAlgorithms.dir/ComparingSortingAlgorithms_JulianoMoreiraAleixo.cpp.obj	4cf0729cf254cc29
+564	695	7323989726801396	ComparingSelectionAlgorithms.exe	f66119268169ffe0

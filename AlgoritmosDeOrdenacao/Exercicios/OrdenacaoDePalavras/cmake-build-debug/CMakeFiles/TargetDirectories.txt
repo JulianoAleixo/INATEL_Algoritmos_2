@@ -1,0 +1,3 @@
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/AlgoritmosDeOrdenacao/Exercicios/OrdenacaoDePalavras/cmake-build-debug/CMakeFiles/OrdenacaoDePalavras.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/AlgoritmosDeOrdenacao/Exercicios/OrdenacaoDePalavras/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/AlgoritmosDeOrdenacao/Exercicios/OrdenacaoDePalavras/cmake-build-debug/CMakeFiles/rebuild_cache.dir

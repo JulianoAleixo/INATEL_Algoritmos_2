@@ -1,0 +1,3 @@
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Prova2_Simulado/cmake-build-debug/CMakeFiles/Prova2_Simulado.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Prova2_Simulado/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Prova2_Simulado/cmake-build-debug/CMakeFiles/rebuild_cache.dir

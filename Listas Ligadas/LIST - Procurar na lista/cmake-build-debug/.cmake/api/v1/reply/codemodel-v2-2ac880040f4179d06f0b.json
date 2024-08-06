@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LIST___Procurar_na_lista",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LIST___Procurar_na_lista::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LIST___Procurar_na_lista-Debug-a4223d9d6d12d013bf4f.json",
+					"name" : "LIST___Procurar_na_lista",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Listas Ligadas/LIST - Procurar na lista/cmake-build-debug",
+		"source" : "C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Listas Ligadas/LIST - Procurar na lista"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

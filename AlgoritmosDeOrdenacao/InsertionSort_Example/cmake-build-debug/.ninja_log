@@ -1,0 +1,15 @@
+# ninja log v5
+0	615	7320482051577700	CMakeFiles/InsertionSort_Example.dir/InsertionSort_Example.cpp.obj	7eaed1bb4d97bb58
+619	811	7320482053498598	InsertionSort_Example.exe	10be079c0b6c55f9
+4	500	7320482265899336	CMakeFiles/InsertionSort_Example.dir/InsertionSort_Example.cpp.obj	7eaed1bb4d97bb58
+500	630	7320482267158137	InsertionSort_Example.exe	10be079c0b6c55f9
+4	597	7325995126736377	CMakeFiles/InsertionSort_Example.dir/InsertionSort_Example.cpp.obj	7eaed1bb4d97bb58
+597	894	7325995129677467	InsertionSort_Example.exe	10be079c0b6c55f9
+3	314	7325997660309566	CMakeFiles/InsertionSort_Example.dir/InsertionSort_Example.cpp.obj	7eaed1bb4d97bb58
+315	405	7325997661189828	InsertionSort_Example.exe	10be079c0b6c55f9
+3	361	7326007056243896	CMakeFiles/InsertionSort_Example.dir/InsertionSort_Example.cpp.obj	7eaed1bb4d97bb58
+361	452	7326007057104126	InsertionSort_Example.exe	10be079c0b6c55f9
+3	350	7326007384645184	CMakeFiles/InsertionSort_Example.dir/InsertionSort_Example.cpp.obj	7eaed1bb4d97bb58
+350	444	7326007385562108	InsertionSort_Example.exe	10be079c0b6c55f9
+3	302	7326007508436502	CMakeFiles/InsertionSort_Example.dir/InsertionSort_Example.cpp.obj	7eaed1bb4d97bb58
+303	389	7326007509262062	InsertionSort_Example.exe	10be079c0b6c55f9

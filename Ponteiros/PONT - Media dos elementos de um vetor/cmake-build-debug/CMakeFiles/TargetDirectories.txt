@@ -1,0 +1,3 @@
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Ponteiros/PONT - Media dos elementos de um vetor/cmake-build-debug/CMakeFiles/PONT___Media_dos_elementos_de_um_vetor.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Ponteiros/PONT - Media dos elementos de um vetor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Ponteiros/PONT - Media dos elementos de um vetor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FatorialRecursivo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FatorialRecursivo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FatorialRecursivo-Debug-c5c5225243cd01a5445c.json",
+					"name" : "FatorialRecursivo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/AlgoritmosRecursivos/Exercicios/FatorialRecursivo/cmake-build-debug",
+		"source" : "C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/AlgoritmosRecursivos/Exercicios/FatorialRecursivo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

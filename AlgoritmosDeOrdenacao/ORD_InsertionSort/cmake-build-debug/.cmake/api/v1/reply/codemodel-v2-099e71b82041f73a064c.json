@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ORD_InsertionSort",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ORD_InsertionSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ORD_InsertionSort-Debug-e26d3f1a8ae0f32b7ad2.json",
+					"name" : "ORD_InsertionSort",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/AlgoritmosDeOrdenacao/ORD_InsertionSort/cmake-build-debug",
+		"source" : "C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/AlgoritmosDeOrdenacao/ORD_InsertionSort"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,27 @@
+# ninja log v5
+6	882	7398558593285263	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+887	1138	7398558595793505	ControleDeEstoque.exe	ace68f3d243e7e68
+66	847	7398561036663868	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+848	1026	7398561038394961	ControleDeEstoque.exe	ace68f3d243e7e68
+32	757	7398563787444268	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+758	924	7398563789022885	ControleDeEstoque.exe	ace68f3d243e7e68
+13	764	7398566782241781	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+765	913	7398566783687658	ControleDeEstoque.exe	ace68f3d243e7e68
+36	867	7398569877130286	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+869	1047	7398569878908540	ControleDeEstoque.exe	ace68f3d243e7e68
+40	843	7398572647877509	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+844	1016	7398572649523002	ControleDeEstoque.exe	ace68f3d243e7e68
+41	804	7398575224580186	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+805	991	7398575226322000	ControleDeEstoque.exe	ace68f3d243e7e68
+52	827	7398575917859264	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+828	1000	7398575919519661	ControleDeEstoque.exe	ace68f3d243e7e68
+14	722	7398577069246998	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+723	904	7398577070992757	ControleDeEstoque.exe	ace68f3d243e7e68
+14	850	7398578376217574	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+852	1029	7398578377954632	ControleDeEstoque.exe	ace68f3d243e7e68
+12	789	7398581218777926	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+791	1004	7398581220859764	ControleDeEstoque.exe	ace68f3d243e7e68
+43	808	7398582861103512	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+810	982	7398582862797924	ControleDeEstoque.exe	ace68f3d243e7e68
+48	801	7398583629470538	CMakeFiles/ControleDeEstoque.dir/program.cpp.obj	ca9a37e42859e82b
+803	990	7398583631264142	ControleDeEstoque.exe	ace68f3d243e7e68

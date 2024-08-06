@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HASH___Juntando_Tudo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HASH___Juntando_Tudo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HASH___Juntando_Tudo-Debug-c1bc86172fc0e49b1d7e.json",
+					"name" : "HASH___Juntando_Tudo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Hashing/HASH - Juntando Tudo/cmake-build-debug",
+		"source" : "C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Hashing/HASH - Juntando Tudo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

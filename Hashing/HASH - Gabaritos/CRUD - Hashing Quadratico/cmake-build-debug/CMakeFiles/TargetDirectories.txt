@@ -1,0 +1,3 @@
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Hashing/HASH - Gabaritos/CRUD - Hashing Quadratico/cmake-build-debug/CMakeFiles/CRUD___Hashing_Quadratico.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Hashing/HASH - Gabaritos/CRUD - Hashing Quadratico/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Hashing/HASH - Gabaritos/CRUD - Hashing Quadratico/cmake-build-debug/CMakeFiles/rebuild_cache.dir

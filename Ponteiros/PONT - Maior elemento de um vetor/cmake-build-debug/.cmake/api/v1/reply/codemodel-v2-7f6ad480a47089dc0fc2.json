@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PONT___Maior_elemento_de_um_vetor",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PONT___Maior_elemento_de_um_vetor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PONT___Maior_elemento_de_um_vetor-Debug-9683d3b489f292625b0c.json",
+					"name" : "PONT___Maior_elemento_de_um_vetor",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Ponteiros/PONT - Maior elemento de um vetor/cmake-build-debug",
+		"source" : "C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Ponteiros/PONT - Maior elemento de um vetor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

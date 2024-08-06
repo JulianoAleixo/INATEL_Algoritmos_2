@@ -1,0 +1,3 @@
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Ponteiros/PONT - Inserindo Elementos/cmake-build-debug/CMakeFiles/PONT___Inserindo_Elementos.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Ponteiros/PONT - Inserindo Elementos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/Ponteiros/PONT - Inserindo Elementos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

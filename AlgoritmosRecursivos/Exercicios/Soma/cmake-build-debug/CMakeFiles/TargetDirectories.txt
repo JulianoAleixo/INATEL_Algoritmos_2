@@ -1,0 +1,3 @@
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/AlgoritmosRecursivos/Exercicios/Soma/cmake-build-debug/CMakeFiles/Soma.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/AlgoritmosRecursivos/Exercicios/Soma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/AlgoritmosRecursivos/Exercicios/Soma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
